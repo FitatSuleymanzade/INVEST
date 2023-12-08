@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+
+    .navv{
+        width: 90%;
+    }
+    .collapseDiv{
+        display: flex;
+        gap: 20px;
+        padding-top: 10px;
+        padding-left: 30px;
+        margin-left: 30px;
+        color: white;
+    }
+}
+
+
+.headermain{
+    width: 100%;
+    display: flex;
+    background-color: #FFA800;
+   .container{
+    width: 90%;
+    padding: 20px;
+ 
+   }
+  
+}
